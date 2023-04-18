@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_shade1">#809bce</color>
+    <color name="blue_shade2">#abc4ff</color>
+    <color name="blue_shade3">#c1d3fe</color>
+    <color name="blue_shade4">#ccdbfd</color>
+
+    <color name="teal_shade1">#189F93</color>
+    <color name="teal_shade2">#35B6AB</color>
+    <color name="teal_shade3">#FF03DAC5</color>
+    <color name="teal_shade4">#96FFF6</color>
+
+    <color name="green_shade1">#4CAF50</color>
+    <color name="green_shade2">#1EF138</color>
+    <color name="green_shade3">#71FF83</color>
+    <color name="green_shade4">#7DFF8D</color>
+    <color name="green_shade5">#B5FFBE</color>
+
+
+    <color name="peach_shade1">#FF8D51</color>
+    <color name="peach_shade2">#FFA16F</color>
+    <color name="peach_shade3">#FFB58D</color>
+    <color name="peach_shade4">#FFD3BC</color>
+
+
+    <color name="yellow_shade1">#FFC107</color>
+    <color name="yellow_shade2">#FFCF3E</color>
+    <color name="yellow_shade3">#FFE500</color>
+    <color name="yellow_shade4">#FFE13F</color>
+    <color name="yellow_shade5">#FFF193</color>
+    <color name="yellow_shade6">#FFF6B8</color>
+
+
+    <color name="pink_shade1">#fb6f92</color>
+    <color name="pink_shade2">#ff8fab</color>
+    <color name="pink_shade3">#ffc2d1</color>
+    <color name="pink_shade4">#fce1e4</color>
+    <color name="pink_shade5">#ffe5ec</color>
+    <color name="pink_shade6">#eac4d5</color>
+    <color name="pink_shade7">#ffc6ff</color>
+</resources>

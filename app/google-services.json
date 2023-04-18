@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183500996717",
+    "project_id": "loginotpdemo-290f9",
+    "storage_bucket": "loginotpdemo-290f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183500996717:android:8c7ec91e77edcedf677f64",
+        "android_client_info": {
+          "package_name": "com.example.loginotpdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183500996717-4rigovle3eb038e2l1960qpucaog3h69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRiEPOeX_rwLsx_pTGSUBybngWdzZThBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183500996717-4rigovle3eb038e2l1960qpucaog3h69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
